@@ -1,4 +1,4 @@
-<img src="[pic_trulli.jpg](https://user-images.githubusercontent.com/5330387/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png)" alt="coding" width="500" height="333">
+<img src="https://user-images.githubusercontent.com/5330387/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png" alt="coding" width="500" height="333">
 
 <h1 align="center">Hi 👋, I'm Mark Brown</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
