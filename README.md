@@ -1,4 +1,5 @@
 <img src="https://unsplash.com/photos/blue-skies-filled-of-stars-W8KTS-mhFUE" alt="coding" width="100%" height="333">
+<img src="pic_trulli.jpg" alt="Italian Trulli">
 
 <h1 align="center">Hi 👋, I'm Mark Brown</h1>
 <h3 align="center">Cybersecurity Analyst (Entry-Level)</h3>
