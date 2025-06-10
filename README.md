@@ -1,7 +1,7 @@
 <img src="https://www.w3schools.com/html/img_chania.jpg" atl="mmmxv" width="100%" height="333">
 
 <h1 align="center">Hi 👋, I'm Mark Brown</h1>
-<h3 align="center">Cybersecurity Analyst (Entry-Level)</h3>
+<h3 align="center">Cybersecurity Analyst Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark-brown-cybersecurity&label=Profile%20views&color=0e75b6&style=flat" alt="mark-brown-cybersecurity" /> </p>
 -------
