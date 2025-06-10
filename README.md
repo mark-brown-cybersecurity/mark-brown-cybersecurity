@@ -1,4 +1,4 @@
-<img src="[https://unsplash.com/photos/blue-skies-filled-of-stars-W8KTS-mhFUE](https://www.pexels.com/photo/person-using-black-laptop-computer-5475752/)" alt="coding" width="100%" height="333">
+<img src="https://www.pexels.com/photo/person-using-black-laptop-computer-5475752/" alt="coding" width="100%" height="333">
 <img src="https://www.w3schools.com/html/pic_trulli.jpg" alt="Italian Trulli">
 Photo by Antoni Shkraba Studio from Pexels: https://www.pexels.com/photo/person-using-black-laptop-computer-5475752/
 <h1 align="center">Hi 👋, I'm Mark Brown</h1>
