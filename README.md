@@ -1,6 +1,4 @@
-<img src="https://www.pexels.com/photo/person-using-black-laptop-computer-5475752/" alt="coding" width="100%" height="333">
 <img src="https://www.w3schools.com/html/img_chania.jpg" atl="mmmxv" width="100%" height="333">
-
 
 <h1 align="center">Hi 👋, I'm Mark Brown</h1>
 <h3 align="center">Cybersecurity Analyst (Entry-Level)</h3>
