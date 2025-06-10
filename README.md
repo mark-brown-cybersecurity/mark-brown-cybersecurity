@@ -1,7 +1,5 @@
 <img src="https://www.pexels.com/photo/person-using-black-laptop-computer-5475752/" alt="coding" width="100%" height="333">
-<img src="https://www.pexels.com/photo/person-using-black-laptop-computer-5475752" alt="Italian Trulli">
-<img src="https://photos.google.com/memory/featured/AF1QipMFSfpVU41-Dz6roGb8NVSiEFZfjubnFRbVtebJOQ/grid/photo/AF1QipO9LJ--phGnepFZK1D2OL6IBfLpOxZsK7WDS1AD" alt="xxx">
-<img src="https://www.w3schools.com/html/img_chania.jpg" atl="mmmxv">
+<img src="https://www.w3schools.com/html/img_chania.jpg" atl="mmmxv" width="100%" height="333">
 
 
 <h1 align="center">Hi 👋, I'm Mark Brown</h1>
